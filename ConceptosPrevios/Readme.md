@@ -31,5 +31,13 @@ s = pd.Series([2,4,6,8,10])
 
 ```
 # manejo de git
+```
+tener el env en .gitignore
 >git init
->git add
+>git add .
+>git commit -m "introducción a pandas 5%"
+```
+
+# creacion de objetos en serie
+>git config --global use.email "your@example.com"
+>git config --global user.name "your name"
