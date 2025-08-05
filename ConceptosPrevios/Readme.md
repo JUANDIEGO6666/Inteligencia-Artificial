@@ -49,4 +49,5 @@ como desactivar el entorno virtual
 
 con env ejecutado aplicamos
 
-#Cambio
+# instalar matplotlib
+pip install matplotlib

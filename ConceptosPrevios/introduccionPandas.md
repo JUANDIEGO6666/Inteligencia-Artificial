@@ -29,6 +29,27 @@ print(s)
 ```
 
 # Creacion de objeto en serie inclinizado con un diccionario de python
+```
 altura={"santiago":180,"marcelo":172;"Luis":174;"Alejandra":160}
 s= pd.Series(altura)
 print(s)
+```
+# Acceso a los elementos de un objeto series
+# cada elemento de objetos series tiwnw un identificador unico
+```
+s=pd.Series([2,4,6,8], index=["num1","num2","num3","num4"])
+print(s)
+```
+# acccediendo al tercer elemento del objeto
+```
+print(s["num3"])
+```
+# acceder por la posicion
+```
+print(s.iloc[2])
+print(s.loc["num3"])
+```
+# acedoendo al segundo y tercer elemento por posicion
+```
+print(s.iloc[2:4])
+````
