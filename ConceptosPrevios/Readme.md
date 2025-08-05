@@ -46,3 +46,5 @@ clonar reporsitorio
 https://github.com/JUANDIEGO6666/Inteligencia-Artificial.git
 como desactivar el entorno virtual
 >desactivate
+
+con env ejecutado aplicamos
