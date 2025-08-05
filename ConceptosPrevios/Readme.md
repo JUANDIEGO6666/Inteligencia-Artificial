@@ -40,7 +40,7 @@ tener el env en .gitignore
 
 # creacion de objetos en serie
 >git config --global use.email "your@example.com"
->git config --global user.name "your name
+>git config --global user.name "your name"
 >pip freeze > requirements.txt
 clonar reporsitorio
 https://github.com/JUANDIEGO6666/Inteligencia-Artificial.git
